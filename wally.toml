@@ -1,0 +1,11 @@
+[package]
+name = "synthranger/iris"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+description = "https://github.com/Michael-48/Iris"
+authors = ["Michael-48"]
+license = "The MIT License (MIT)"
+
+[dependencies]
